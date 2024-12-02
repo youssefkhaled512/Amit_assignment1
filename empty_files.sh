@@ -1,4 +1,4 @@
-directory=assignments
+directory=/home/youssef/Amit/assignments
 
 # Check if the directory exists
 if [ ! -d "$directory" ]; then
